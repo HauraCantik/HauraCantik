@@ -1,4 +1,4 @@
-### Hi there 👋
+HauraCantik.github.io
 
 <!--
 **HauraCantik/HauraCantik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
